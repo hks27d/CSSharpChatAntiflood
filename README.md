@@ -4,7 +4,7 @@
 Stop chat flooding from players.
 
 ## 🌐 Description
-Just a basic plugin to stop chat flooding. Make sure you alter the code in case you need specific changes.
+Just a basic plugin to stop chat flooding. Root has immunity by default. Make sure you alter the code in case you need specific changes.
 
 ## 📗 Dependecies
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
